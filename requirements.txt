@@ -1,0 +1,9 @@
+openai-whisper
+pydub
+librosa
+click
+scipy
+numpy
+PyAudio
+keyboard
+torch
